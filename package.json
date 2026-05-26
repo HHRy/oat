@@ -15,7 +15,8 @@
     "oat.min.css",
     "oat.min.js",
     "css",
-    "js"
+    "js",
+    "src/**"
   ],
 
   "main": "oat.min.js",
